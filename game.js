@@ -43,7 +43,7 @@ let questions = [
       "answer": 1
     },
     {
-      "question": "What job has Hannah had the longest?",
+      "question": "Which job has Hannah had the longest?",
       "choice1": "Bank manager",
       "choice2": "Sailor",
       "choice3": "Teacher",
