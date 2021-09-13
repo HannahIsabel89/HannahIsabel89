@@ -11,7 +11,7 @@ let availableQuestions = [];
 
 let questions = [
     {
-      "question": "What fruit does Hannah dislike?",
+      "question": "Which fruit does Hannah dislike?",
       "choice1": "Apple",
       "choice2": "Banana",
       "choice3": "Kiwi",
@@ -27,7 +27,7 @@ let questions = [
       "answer": 2
     },
     {
-      "question": "What animal did Hannah have as a pet while growing up?",
+      "question": "Which animal did Hannah have as a pet while growing up?",
       "choice1": "Cat",
       "choice2": "Fish",
       "choice3": "Snake",
